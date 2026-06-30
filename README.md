@@ -10,6 +10,7 @@ To create a robust regression model that accurately predicts car prices by analy
 
 ---
 🛠️ Key Steps Followed
+
 Data Preprocessing & Feature Engineering: Cleaned raw vehicle datasets, encoded categorical variables, and normalized numerical features to ensure optimal model performance.
 
 Exploratory Data Analysis (EDA): Investigated the correlation between various car attributes and their impact on market price to identify key cost drivers.
